@@ -1,0 +1,12 @@
+.container {
+  padding-top: 50px;
+  width: 100%;
+
+  color: #528e86;
+  border-radius: 1px solid;
+}
+.friendList {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
